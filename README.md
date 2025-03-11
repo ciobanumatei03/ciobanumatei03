@@ -30,8 +30,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 📌 Featured Projects
-🔹 **[Project Name](#)** – *Short description of your best project*  
-🔹 **[Project Name](#)** – *Short description of another top project*  
+🔹 **[NextJS Food App](#)** – *Utilized Next.JS to build a high-performance, scalable web
+application, implementing both server-side rendering (SSR) and
+static site generation (SSG). *  
+🔹 **[React Poster App](#)** – *Developed a deep understanding of the React framework and features, state management, data fetching, routing*  
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -46,10 +48,7 @@
 - **Deep diving into UI/UX principles**
 
 ## 📫 Let's Connect!
-💼 **LinkedIn:** [linkedin.com/in/yourusername](#)  
-🌍 **Portfolio:** [your-portfolio.com](#)  
-📧 **Email:** [your-email@example.com](#)  
+💼 **LinkedIn:** [https://www.linkedin.com/in/matei-alexandru-ciobanu-805aa42a4/](#)    
+📧 **Email:** [ciobanumatei03@gmail.com](#)  
 
 ---
-
-*⚡ "Code is like humor. When you have to explain it, it’s bad." – Cory House*
